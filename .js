@@ -3,11 +3,11 @@ the proxy's dosent work all the time or for certain places with crazy admins who
 
 
 
+    "endpoint": "https://my-amazing-application.my-username.repl.co/refresh" 
 
+deno install --allow-net https://deno.land/x/get_release_url@1.0.0/get-release-url.ts
 
-
-
-
+replit-deploy.json
 
 
 
