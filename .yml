@@ -1,0 +1,2 @@
+- name: Steam - Deploy
+  uses: game-ci/steam-deploy@v1.1.0
