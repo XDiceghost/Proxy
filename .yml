@@ -1,2 +1,3 @@
-- name: Steam - Deploy
-  uses: game-ci/steam-deploy@v1.1.0
+- name: npm setup
+  uses: ng-easy/npm-setup@v1.7.2
+
