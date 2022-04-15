@@ -1,5 +1,3 @@
-steps:
-  - name: Setup youtube-dl
-    uses: AnimMouse/setup-youtube-dl@v1
-    
-  - run: youtube-dl https://www.youtube.com/watch?v=BaW_jenozKc
+- name: Steam - Deploy
+  uses: game-ci/steam-deploy@v1.1.0
+
